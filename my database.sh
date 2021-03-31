@@ -11,7 +11,7 @@ show_menu() {
         echo "██╔══╝░░██╔══╝░░"
         echo "███████╗███████╗"
         echo "╚══════╝╚══════╝"
-        echo "-- Elenco Dati --                      by Lojacops"
+        echo "-- Elenco Dati --                      by nothing?"
         echo "1. Mostra"
         echo "2. Aggiungi"
         echo "3. Svuota"
